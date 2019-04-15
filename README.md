@@ -20,4 +20,4 @@ So how should you start playing?
 
   It should ideally take an hour's time to finish this game. If you finish the game successfully, we will be calling you in for further     process.
   
-  # For those who are doing these kind problems first time or they might have only an idea about how REST works then beleive me this problem can be solved within an hour
+  # For those who are doing these kind of problems first time or they might have only an idea about how REST works then beleive me this problem can be solved within an hour
